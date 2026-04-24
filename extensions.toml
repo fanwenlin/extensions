@@ -2538,6 +2538,10 @@ version = "0.0.1"
 submodule = "extensions/pbxproj"
 version = "0.2.0"
 
+[pddl]
+submodule = "extensions/pddl"
+version = "0.1.0"
+
 [penumbra]
 submodule = "extensions/penumbra"
 version = "0.1.1"
